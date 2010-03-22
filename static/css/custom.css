@@ -121,3 +121,11 @@ padding: 20px;
 #loginForm input[type='text'], #loginForm input[type='password'] {
 padding: 2px;
 }
+
+#content p {
+line-height: 24px;
+}
+
+#content li {
+line-height: 24px;
+}
